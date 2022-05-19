@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MadoBek
+- 👋 Hi, I’m Muhammed Khaled (Mado)
 - 👀 I’m interested in Programming  
 - 🌱 I’m currently learning Java  
 - 💞️ I’m looking to collaborate on ...
